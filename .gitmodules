@@ -1,0 +1,9 @@
+[submodule "Programacao-Cplusplus"]
+	path = Programacao-Cplusplus
+	url = https://github.com/PedroH2003/Programacao-Cplusplus.git
+[submodule "Programacao-C"]
+	path = Programacao-C
+	url = https://github.com/PedroH2003/Programacao-C.git
+[submodule "Programacao-Python"]
+	path = Programacao-Python
+	url = https://github.com/PedroH2003/Programacao-Python.git
